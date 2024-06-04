@@ -1,8 +1,13 @@
 ## ola a todos👋
 Estou estudando no coronel carlos porto
+
 Estou me desenvolvendo na linguagem JavaScript no itnerario
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-![](https://giphy.com/clips/justin-meme-doge-dogecoin-FlJ76bXyXwgWjOJkeJ)
+
+
+
+
 
 
 <!--
