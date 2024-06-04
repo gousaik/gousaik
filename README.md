@@ -5,6 +5,7 @@ Estou me desenvolvendo na linguagem JavaScript no itnerario
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+![](https://media1.tenor.com/m/6HdySNL-OGEAAAAC/peace-out-peace-sign.gif)
 
 
 
