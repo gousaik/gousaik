@@ -1,9 +1,9 @@
-## ola a todos👋
+## ola 
 Estou estudando no coronel carlos porto
 
-Estou me desenvolvendo na linguagem JavaScript no itnerario
+Estou me desenvolvendo na linguagem JavaScript no itnerario a3 com o professor marcius
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos como o pong 3.0 
 
 ![](https://media1.tenor.com/m/6HdySNL-OGEAAAAC/peace-out-peace-sign.gif)
 
